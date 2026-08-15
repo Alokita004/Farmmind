@@ -1,0 +1,28 @@
+{
+  "crops": {
+    "rice": {
+      "current_price": 2450,
+      "previous_price": 2380,
+      "unit": "INR/quintal",
+      "trend": "Increasing"
+    },
+    "wheat": {
+      "current_price": 2300,
+      "previous_price": 2250,
+      "unit": "INR/quintal",
+      "trend": "Stable"
+    },
+    "maize": {
+      "current_price": 1900,
+      "previous_price": 1850,
+      "unit": "INR/quintal",
+      "trend": "Increasing"
+    },
+    "mustard": {
+      "current_price": 4200,
+      "previous_price": 4050,
+      "unit": "INR/quintal",
+      "trend": "Increasing"
+    }
+  }
+}

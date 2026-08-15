@@ -1,0 +1,1 @@
+"""FarmMind app package."""
